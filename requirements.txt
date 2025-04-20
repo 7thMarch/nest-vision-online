@@ -1,0 +1,5 @@
+
+onnx==1.15.0
+onnx-tf==1.10.0
+tensorflow==2.15.0
+tensorflowjs==4.15.0
